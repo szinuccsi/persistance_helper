@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name="persistance_helper",
-    version="0.0.1",
+    version="0.0.2",
     author="Bence Szinyéri",
     author_email="szinyeribence@edu.bme.hu",
     description="Helpers to persist objects",
